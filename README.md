@@ -6,7 +6,7 @@
 
 Olá. Eu sou Felipe, sou estudante de análise e desenvolvimento de sistemas
 
-- :books: Atualmente estou estudando Java, Spring Boot, Dart, Flutter, Kotlin e Julia.
-- :pushpin: Interesses: UX, UI, Programação e estrutura de dados
+- :books: Atualmente estou estudando  Dart, Flutter, Python e Julia.
+- :pushpin: Interesses: UX, UI, programação, estrutura de dados e resolução de problemas
 
 
