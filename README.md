@@ -3,10 +3,10 @@
 </head>
 
 ## Felipe Cantalice
-<a href=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href=""> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
-<a href="https://www.reddit.com/user/felipep31"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a>
-<a href="https://twitter.com/felipe82274727"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/felipecantalice31" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://github.com/FelipeCantalice" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://www.reddit.com/user/felipep31" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a>
+<a href="https://twitter.com/felipe82274727" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="mailto:felipep31a@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href=""> <img src=""/> </a>
 
@@ -18,28 +18,46 @@ Sou muito interessado, esforçado. Possuo a capacidade de implemantar serviços 
 
 ## Conhecimento
 
+#### Linguagens de programação ou marcação
+
+<div>
+  <p align="left"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />
+   </p>
+</div>
+
+#### Frameworks
+
 <div>
   <p align="left"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/tree/master/icons/java" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" />
+   </p>
+</div>
+
+#### Banco de dados
+
+<div>
+  <p align="left"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" />
-    <img src="" width="50" />
-    <img src="" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" />
    </p>
-  </div>
+</div>
 
-Conhecimento de banco de dados, criação de tabelas, relacionamentos, comandos para manipular dados, atualizar.
+#### Outros
 
-- :books: Atualmente estou estudando  Java, Spring boot e Python.
-- :pushpin: Interesses: UX, UI, programação, estrutura de dados e resolução de problemas
+<div>
+  <p align="left"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" />
+   </p>
+</div>
 
 
 ## Status
@@ -51,6 +69,4 @@ Conhecimento de banco de dados, criação de tabelas, relacionamentos, comandos 
    <span>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCantalice&show_icons=true&theme=radical&layout=compact" />
   </span>
-  </div>
-
 <div>
