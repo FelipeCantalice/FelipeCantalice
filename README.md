@@ -12,9 +12,7 @@
 
 Olá. Eu sou Felipe, estou me formando em analise e desenvolvimento de sistemas. Minha motivação é utilizar a tecnologia para resolver os mais diversos problemas, pois resolvelos com facilidade, praticidade e eficiencia é o mais importante, e algo válioso para qualquer um.
 
-Entusista no mundo gigante do Java, conhecedor das mais diversas ferramentas de desenolvimneot como Spring boot e suas principais bibliotecas como JPA e Hibernate.
-
-Sou muito interessado, esforçado. Possuo a capacidade de implemantar serviços para a API REST, utilizando seus respectivos métodos HTTP. 
+Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas ferramentas de desenvolvimento como Spring boot e suas principais bibliotecas como JPA e Hibernate.
 
 ## Conhecimento
 
