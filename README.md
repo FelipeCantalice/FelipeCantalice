@@ -21,8 +21,8 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
 <div>
   <p align="left"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />
    </p>
 </div>
@@ -31,9 +31,9 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
 
 <div>
   <p align="left"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" />
    </p>
 </div>
 
