@@ -20,10 +20,11 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
 
 <div>
   <p align="left"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
+
+    
    </p>
 </div>
 
@@ -31,9 +32,11 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
 
 <div>
   <p align="left"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" />
+
    </p>
 </div>
 
@@ -44,16 +47,6 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" />
-   </p>
-</div>
-
-#### Outros
-
-<div>
-  <p align="left"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" />
    </p>
 </div>
 
