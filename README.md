@@ -20,11 +20,8 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
 
 <div>
   <p align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
-
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" /> 
    </p>
 </div>
 
@@ -34,9 +31,6 @@ Entusista no mundo gigante do ecossistema Java, conhecedor das mais diversas fer
   <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" />
-
    </p>
 </div>
 
