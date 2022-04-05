@@ -8,7 +8,6 @@
 <a href="https://www.reddit.com/user/felipep31" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a>
 <a href="https://twitter.com/felipe82274727" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="mailto:felipep31a@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href=""> <img src=""/> </a>
 
 Olá. Eu sou Felipe, estou me formando em analise e desenvolvimento de sistemas. Minha motivação é utilizar a tecnologia para resolver os mais diversos problemas, pois resolvelos com facilidade, praticidade e eficiencia é o mais importante, e algo válioso para qualquer um.
 
