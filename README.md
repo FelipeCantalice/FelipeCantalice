@@ -16,11 +16,10 @@ Sou formado em analise e desenvolvimento de sistema 🎓. Tive a oportunidade de
 - 🛠 &nbsp; Atualmente possuo conhecimento em Java, C#, Spring boot e .NET
 - 🚀 &nbsp; Estou me especializando em desenvolvimento Back-end;
 
-### My Absolute Favorites:
+### Eu gosto
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; Explorar novas informações voltadas para tecnologia e saúde.
+- 📰 &nbsp; Ler sites voltados para a evolução da tecnologia 
 
 ### Linguagens e ferramentas
 
