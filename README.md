@@ -1,19 +1,19 @@
 ## Olá 👋, eu sou [Felipe Cantalice!](https://github.com/FelipeCantalice/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-guimaraes-am/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/felipe82274727)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Instagram&logoColor=white)](felipep31a@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-cantalice/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/FelipeCantalice)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Instagram&logoColor=white)](felipep31a@hotmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/whatsapp-04B404?style=flat-square&logo=Instagram&logoColor=white)](https://api.whatsapp.com/send?phone=5592984219675&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20falar%20com%20voc%C3%AA.)
 
 ### Desenvolvedor júnior &nbsp;
 
-Sou formado em analise e desenvolvimento de sistema 🎓. Tive a oportunidade de trabalhar em uma equipe 🤓, por mais 3 anos, em diversos projetos, utilizando a linguagem Java como principal ferramenta. Possuo uma base sólida no processo de desenvolvimento, que ainda estou em contrução e constante prática.
+Sou formado em analise e desenvolvimento de sistema 🎓. Tive a oportunidade de trabalhar em uma equipe 🤓, por mais 3 anos, em diversos projetos, utilizando a linguagem Python como principal ferramenta. Possuo uma base sólida no processo de desenvolvimento, que ainda estou em contrução e constante prática.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Coisas pessoas
 
-- 🛠 &nbsp; Atualmente possuo conhecimento em Java, C#, Spring boot e .NET
+- 🛠 &nbsp; Atualmente possuo conhecimento em Python e C#.
 - 🚀 &nbsp; Estou me especializando em desenvolvimento Back-end;
 
 ### Eu gosto
@@ -23,9 +23,7 @@ Sou formado em analise e desenvolvimento de sistema 🎓. Tive a oportunidade de
 
 ### Linguagens e ferramentas
 
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"></code>
-<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="java"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
